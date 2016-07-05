@@ -30,8 +30,7 @@ namespace Task03
             }
 
             int k = (int) (Math.Pow(2, endPos - startPos + 1) - 1);
-            int n = int.MinValue + k;
-            second = second & n;
+            second = second & k;
             second = second << startPos;
 
             return first | second;
