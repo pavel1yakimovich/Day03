@@ -1,8 +1,0 @@
-E:\Trainings EPAM\Day 03\Day03\EPAM.Summer.Yakimovich.03\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-E:\Trainings EPAM\Day 03\Day03\EPAM.Summer.Yakimovich.03\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-E:\Trainings EPAM\Day 03\Day03\EPAM.Summer.Yakimovich.03\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-E:\Trainings EPAM\Day 03\Day03\EPAM.Summer.Yakimovich.03\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-E:\Trainings EPAM\Day 03\Day03\EPAM.Summer.Yakimovich.03\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-E:\Trainings EPAM\Day 03\Day03\EPAM.Summer.Yakimovich.03\ConsoleApplication1\bin\Debug\Task03.dll
-E:\Trainings EPAM\Day 03\Day03\EPAM.Summer.Yakimovich.03\ConsoleApplication1\bin\Debug\Task03.pdb
-E:\Trainings EPAM\Day 03\Day03\EPAM.Summer.Yakimovich.03\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
